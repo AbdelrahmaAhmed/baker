@@ -1,0 +1,200 @@
+body{
+    margin: 0%;
+}
+
+
+
+.home{
+    background-image: url(../amgs/drew-coffman-1872.jpg);
+background-size: cover;
+background-position: center;
+height: 100vh;
+
+
+}
+.home button{
+ padding: 15px 30px;
+    border-radius: 6px;
+    border: none;
+}
+.btn_tan{
+    background-color: tan;
+}
+
+.home_content{
+    text-align: center;
+    color: white;
+    padding: 100px;
+    font-size: larger;
+}
+.home_nav_text li{
+    list-style: none;
+    color: white;
+    text-decoration: none;
+
+}
+
+.home_nav_text a{
+    color: white;
+    text-decoration: none;
+    float: left;
+    padding: 0 15;
+}
+.home_nav img{
+    float: left;
+    width: 20%;
+
+}
+.home_nav_text{
+    float: right;
+    width: 40%;
+
+
+    
+}
+.clear{
+    clear: both;
+}
+
+/* who we are */
+
+.contenar{
+    width: 90%;
+    height: 500px;
+    margin: auto;
+    margin-top: 30px;
+}
+.who_img{
+    display: inline-block;
+    width: 25%;
+}
+.who_img img{
+    width: 450;
+    display: inline-block;
+
+}
+.contact{
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+margin-left: 220;
+vertical-align: top;
+   font-size: larger;
+}
+
+/* location */
+
+.our_location{
+    background-color: rgba(19, 12, 2, 0.049);
+}
+
+.contenar_2{
+    width: 90%;
+    height: 500px;
+    margin: auto;
+    margin-top: 40px;
+}
+.location_img{
+    display: inline-block;
+    width: 25%;
+    padding-top: 50px;
+}
+.location_img img{
+    width: 450;
+    height: 400;
+    display: inline-block;
+    padding-right: 300px;
+
+}
+.text{
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+    padding-top: 75px;
+margin-right: 220;
+vertical-align: top;
+   font-size: larger;
+}
+.text p{
+    padding: 5 15;
+}
+
+/* our baking */
+.body{
+    display: inline-block;
+    font-size: medium;
+    text-align: center;
+ margin-top: 80px;
+ font-size: larger;
+}
+.con{
+    display: inline-block;
+    width: 20%;
+    padding-right: 50;
+}
+.con_2{
+    display: inline-block;
+    width: 20%;
+    padding-left: 25px;
+    padding-right: 0px;
+}
+.con_3{
+    display: inline-block;
+    width: 25%;
+    padding-left: 25px;
+}
+.body_img img{
+    width: 400px;
+}
+
+/* inform\\map */
+.Contact_Information{
+    background-color: rgba(19, 12, 2, 0.049);
+}
+.info{
+    width: 80%;
+    margin: auto;
+}
+.info_text{
+    display: inline-block;
+
+    width: 40%;
+    font-size: larger;
+    text-align: left;
+}
+
+.info_map{
+    display: inline-block;
+    margin-top: 100;
+    margin-left: 400;
+    vertical-align: top;
+    width: 200;
+    height: 200;
+}
+
+/* end */
+.end_1{
+background-color: #403d38;
+height:500;
+}
+
+.end_text{
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    padding: 10 10;
+    color: #969696;
+    padding: 10 40;
+    
+}
+
+.end_2{
+    background-color: #353330;
+    height: 300px;
+    text-align: center;
+    padding-top: 50;
+}
+
+
+
+
